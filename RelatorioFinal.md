@@ -44,7 +44,7 @@
 
 <h2>Instalando o Wordpress</h2>
 
-<H3><p><b> No console Linux digite os seguintes comandos:</p></h3>
+<H3><p><b> No console Linux digite os seguintes comandos:</b></p></h3>
 <code>mkdir /downloads
 
 <code>cd /downloads</code>
@@ -65,7 +65,7 @@
 
 <code> chown www-data.www-data /var/www/html/wordpress/* -R</code>
 
-<H3><p><b>Edite o arquivo de configuração do WordPress.</p>
+<H3><p><b>Edite o arquivo de configuração do WordPress.</p></b></h3>
 
 <code> cd /var/www/html/wordpress</code>
 
