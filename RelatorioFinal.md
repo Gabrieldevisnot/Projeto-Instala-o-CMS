@@ -3,7 +3,7 @@
 <p> Inicialmente abordaremos os pré-requisitos para a instalação e utilização do CMS Wordpress</p>
 <p> Logo após, será descrito, passo a passo, os procedimentos realizados para a instalação do mesmo</p>
 
-<h2><b> Pré-requisitos </h2>
+<h2><b> Pré-requisitos </b></h2>
 
 <p> Primeiramente deverá ter um Usuário "Sudo" no seu sistema,<br>
  Feito isso, o seu Servidor precisará ter uma pilha <B>LAMP</B>(Linux, Apache, MySQL, e PHP) instalada e configurada,<br> e por ultimo, mas não menos importante, o protocolo ssl configurado para proteger seu site no Wordpress.</p>
