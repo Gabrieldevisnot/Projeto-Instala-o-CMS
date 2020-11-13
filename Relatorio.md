@@ -65,7 +65,7 @@
 
 <code> chown www-data.www-data /var/www/html/wordpress/* -R</code>
 
-<H3><p><b>Edite o arquivo de configuração do WordPress.</p>
+<H3><p><b>Edite o arquivo de configuração do WordPress.</p></b></h3>
 
 <code> cd /var/www/html/wordpress</code>
 
