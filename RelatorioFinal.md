@@ -92,6 +92,10 @@
 <code>define('DB_COLLATE', '');</code>
 
 <h2>Referencias</h2>
+
 <a href="https://techexpert.tips/pt-br/wordpress-pt-br/instalacao-wordpress-no-ubuntu-linux/#:~:text=no%20Ubuntu%20Linux.-,No%20console%20do%20Linux%2C%20use%20os%20seguintes%20comandos,baixar%20o%20pacote%20do%20WordPress.&text=Mova%20todos%20os%20arquivos%20do,em%20todos%20os%20arquivos%20movidos.&text=Edite%20o%20arquivo%20de%20configura%C3%A7%C3%A3o%20do%20WordPress.">TechExpert Tips: Instalação WordPress no Ubuntu Linux</a>
 
 <a href="https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-ubuntu-18-04-pt">DigitalOcean:  Como instalar o WordPress com o LAMP no Ubuntu 18.04</a>
+
+<a href="https://blog.da2k.com.br/2015/02/08/aprenda-markdown/">DA2K blog: Aprenda Markdown</a>
+
