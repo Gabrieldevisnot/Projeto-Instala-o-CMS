@@ -8,7 +8,7 @@
 <p> Primeiramente deverá ter um Usuário "Sudo" no seu sistema,<br>
  Feito isso, o seu Servidor precisará ter uma pilha <B>LAMP</B>(Linux, Apache, MySQL, e PHP) instalada e configurada,<br> e por ultimo, mas não menos importante, o protocolo ssl configurado para proteger seu site no Wordpress.</p>
 
-<h2> <b>Instalação e Configuração</h2>
+<h2> <b>Instalação e Configuração</b></h2>
 
 <h3>Criando um banco de dados do MySQL</h3>
 <p>Esta instalação é necessária pois o Wordpress Utiliza do Banco de dados Para gerenciar as informações do site e do usuário</p>
