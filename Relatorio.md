@@ -75,20 +75,20 @@
 
 <p>Aqui está o arquivo original, antes da nossa configuração.<p>
 
-<code>define('DB_NAME', 'database_name_here');
-define('DB_USER', 'username_here');
-define('DB_PASSWORD', 'password_here');
-define('DB_HOST', 'localhost');
-define('DB_CHARSET', 'utf8');
+<code>define('DB_NAME', 'database_name_here');<br>
+define('DB_USER', 'username_here');<br>
+define('DB_PASSWORD', 'password_here');<br>
+define('DB_HOST', 'localhost');<br>
+define('DB_CHARSET', 'utf8');<br>
 define('DB_COLLATE', '');</code>
 
 <p>Aqui está o novo arquivo com nossa configuração No meu caso com o usuario Magal.<p>
 
-<code>define('DB_NAME', 'wordpress');
-define('DB_USER', 'Magal');
-define('DB_PASSWORD', 'Magal123');
-define('DB_HOST', 'localhost');
-define('DB_CHARSET', 'utf8');
+<code>define('DB_NAME', 'wordpress');<br>
+define('DB_USER', 'Magal');<br>
+define('DB_PASSWORD', 'Magal123');<br>
+define('DB_HOST', 'localhost');<br>
+define('DB_CHARSET', 'utf8');<br>
 define('DB_COLLATE', '');</code>
 
 
