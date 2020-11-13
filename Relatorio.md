@@ -84,11 +84,11 @@ define('DB_COLLATE', '');</code>
 
 <p>Aqui está o novo arquivo com nossa configuração No meu caso com o usuario Magal.<p>
 
-<code>define('DB_NAME', 'wordpress');
-<br>define('DB_USER', 'Magal');
-<br>define('DB_PASSWORD', 'Magal123');
-<br>define('DB_HOST', 'localhost');
-<br>define('DB_CHARSET', 'utf8');
-<br>define('DB_COLLATE', '');</code>
+<code>define('DB_NAME', 'wordpress');</code>
+<code>define('DB_USER', 'Magal');</code>
+<code>define('DB_PASSWORD', 'Magal123');</code>
+<code>define('DB_HOST', 'localhost');</code>
+<code>define('DB_CHARSET', 'utf8');</code>
+<code>define('DB_COLLATE', '');</code>
 
 
